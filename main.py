@@ -6,7 +6,7 @@ Writes a single line (at most 200 characters) to $MAKEFUN_OUTPUT_DIR/entry.txt.
 import os
 from pathlib import Path
 
-LINE = "My phone tracks my sleep, counts my steps, and judges my screen time, yet dies at 4 PM like it works a shorter shift than I do."
+LINE = "My phone tracks my sleep, counts my steps, and judges my screen time, then dies at 4 PM sharp, like it unionized against overtime."
 MAX_CHARS = 200
 
 
